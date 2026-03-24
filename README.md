@@ -61,7 +61,7 @@ I’m developing it to improve both my **frontend** and **backend** skills while
 
 [![GitHub](https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedAbdullaElfaituri)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abdulla-elfaituri-605990357/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([instagram-linkin])
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([[instagram-linkin]](https://www.instagram.com/mohamed.manda15?igsh=MXM3Mmlmb25uemlxZA==)
 
 ---
 
