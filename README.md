@@ -1,4 +1,4 @@
-# Hi there, I'm Mohamed 👋
+# Hi there, I'm Mohamed 
 
 ### Software Developer | Flutter Developer | Python Backend Enthusiast
 
@@ -51,9 +51,9 @@ I’m developing it to improve both my **frontend** and **backend** skills while
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[github-kullanici-adin]&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[MohamedAbdullaElfaituri]&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[github-kullanici-adin]&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[MohamedAbdullaElfaituri]&layout=compact&theme=tokyonight)
 
 ---
 
