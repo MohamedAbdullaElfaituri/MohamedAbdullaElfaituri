@@ -13,7 +13,7 @@ Currently, I’m working on **VMShop** and improving my skills in **Flutter**, *
 - Learning **Flutter Web**, **Python backend**, and **AI-supported applications**
 - Interested in **mobile development**, **backend systems**, and **automation**
 - Goal: Building professional and impactful software projects
-- Reach me at: **[mail adresin]**
+- Reach me at: **mohamed.manda15@gmail.com**
 
 ---
 
@@ -57,7 +57,7 @@ I’m developing it to improve both my **frontend** and **backend** skills while
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedAbdullaElfaituri)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abdulla-elfaituri-605990357/)
@@ -65,6 +65,6 @@ I’m developing it to improve both my **frontend** and **backend** skills while
 
 ---
 
-## ✨ Motto
+## Motto
 
 > Build. Learn. Improve. Repeat.
