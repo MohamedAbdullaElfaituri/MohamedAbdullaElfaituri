@@ -49,13 +49,6 @@ I’m developing it to improve both my **frontend** and **backend** skills while
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedAbdullaElfaituri&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbdullaElfaituri&layout=compact&theme=tokyonight)
-
----
 
 ## Connect With Me
 
