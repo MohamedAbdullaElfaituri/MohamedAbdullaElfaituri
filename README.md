@@ -129,21 +129,28 @@ A computer vision project using object detection concepts for waste identificati
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MohamedAbdullaElfaituri/MohamedAbdullaElfaituri/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedAbdullaElfaituri/MohamedAbdullaElfaituri/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohamedAbdullaElfaituri/MohamedAbdullaElfaituri/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MohamedAbdullaElfaituri/MohamedAbdullaElfaituri/output/github-contribution-grid-snake.svg">
+  </picture>
 
 </div>
 
 ---
 
-## Optional Add-ons
+## Extra Add-ons
 
-If you want, we can add one or two of these without making the profile look crowded:
+<div align="center">
 
-- GitHub Trophies  
-  `https://github-profile-trophy.vercel.app/?username=MohamedAbdullaElfaituri&theme=tokyonight&no-frame=true&row=1&column=6`
+<img src="https://github-profile-trophy.vercel.app/?username=MohamedAbdullaElfaituri&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
 
-- Random Dev Quote  
-  `https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight`
+<br><br>
 
-- Visitor Map  
-  `https://api.visitorbadge.io/api/visitors?path=MohamedAbdullaElfaituri.MohamedAbdullaElfaituri&label=Profile%20Visitors&countColor=%23263759`
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+
+<br><br>
+
+<img src="https://api.visitorbadge.io/api/visitors?path=MohamedAbdullaElfaituri.MohamedAbdullaElfaituri&label=Profile%20Visitors&countColor=%23263759" alt="Visitor Map" />
+
+</div>
