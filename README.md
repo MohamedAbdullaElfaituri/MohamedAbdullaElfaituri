@@ -1,7 +1,7 @@
 # Mohamed Abdulla
 
 **Software Developer | Mobile & Backend**  
-[mohamed.manda15@gmail.com](mailto:mohamed.manda15@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mohamed-abdulla-elfaituri-605990357/) | [vrmshop.me](https://vrmshop.me)
+[mohamed.manda15@gmail.com](mailto:mohamed.manda15@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mohamed-abdulla-elfaituri-605990357/) |https://lumierebiotics.com )
 
 ---
 
